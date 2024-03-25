@@ -3,10 +3,14 @@
 }
 #imageright{
 	margin-left: 20px;
+	width: 100px;
+	height: 100px;
 }
 #imageleft{
 	margin-right: 40px;
     margin-bottom: 80px;
+	width: 100px;
+	height: 100px;
 }
 .kepszoveg{
 	font-weight: bold;
