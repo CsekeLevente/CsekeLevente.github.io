@@ -36,8 +36,7 @@ h2,h3{
 }
 #logo{
     width: 50%;
-    text-align: center;
-    
+    margin: auto
 }
 .kozepre{
     text-align: center;
