@@ -16,7 +16,7 @@ max-width: 888px;
     width: auto;
     margin-left: 20px;
     border: 1px solid forestgreen;
-    padding: 10px;
+    padding-bottom: 10px;
     border-radius: 20px;
 }
 #imageright img{
@@ -30,7 +30,7 @@ max-width: 888px;
     margin-right: 40px;
     margin-bottom: 20px;
     border: 1px solid forestgreen;
-    padding: 10px;
+    padding-bottom: 10px;
     border-radius: 20px;
 }
 #imageleft img{   
